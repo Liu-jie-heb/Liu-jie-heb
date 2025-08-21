@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a beginner in data science. I will periodically store some study materials.
+
+Let's become stronger together!
+
+
 <!--
 **Liu-jie-heb/Liu-jie-heb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
